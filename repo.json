@@ -10,8 +10,8 @@
       "ApplicableVersion": "any",
       "Tags": ["customization"],
       "DalamudApiLevel": 13,
-      "DownloadLinkInstall": "https://raw.githubusercontent.com/oddree/Equilibrium/main/Equilibrium-1.11.0.zip",
-      "DownloadLinkUpdate": "https://raw.githubusercontent.com/oddree/Equilibrium/main/Equilibrium-1.11.0.zip",
+      "DownloadLinkInstall": "https://github.com/oddree/Equilibrium/releases/download/v1.11.0/Equilibrium.zip",
+      "DownloadLinkUpdate": "https://github.com/oddree/Equilibrium/releases/download/v1.11.0/Equilibrium.zip",
       "RepoUrl": "https://github.com/oddree/Equilibrium"
     }
   ]
