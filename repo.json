@@ -1,0 +1,18 @@
+{
+  "Plugins": [
+    {
+      "Author": "Oddree",
+      "Name": "Equilibrium",
+      "InternalName": "Equilibrium",
+      "AssemblyVersion": "1.11.0.0",
+      "Description": "Your rebranded build of Mare Synchronos.",
+      "Punchline": "Sync with style.",
+      "ApplicableVersion": "any",
+      "Tags": ["customization"],
+      "DalamudApiLevel": 13,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/oddree/Equilibrium/main/Equilibrium-1.11.0.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/oddree/Equilibrium/main/Equilibrium-1.11.0.zip",
+      "RepoUrl": "https://github.com/oddree/Equilibrium"
+    }
+  ]
+}
